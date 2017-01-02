@@ -15,12 +15,6 @@ Some are, some aren't
 ### Can these brick my Wii U?
 wtf no
 
-### Ooooo, this contains some bad hacks, I'm snitchin!
-Nobody likes snitches ;)
-
-### hi
-hi
-
 ### How do I use this?
 - Go to [this site](http://loadiine.ovh) on your Wii U.
 
@@ -39,3 +33,6 @@ hi
 - Click Connect to the Wii U
 
 - Enjoy!
+
+### License?
+Check the LICENSE.txt file in this repository.
