@@ -1,5 +1,5 @@
 # ASH-AIO
-### Status: [![Build Status](https://travis-ci.org/Hexexpeck/ash-aio.svg?branch=master)](https://travis-ci.org/Hexexpeck/ash-aio)
+### Status: [![Build Status](https://travis-ci.org/ASHTeam/ash-aio.svg?branch=master)](https://travis-ci.org/ASHTeam/ash-aio)
 A program that lets you use hacks from the Actual Splatoon Hacking Discord server.
 
 ## FAQ
