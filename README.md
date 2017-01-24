@@ -4,6 +4,8 @@
 
 A program that lets you use hacks from the Actual Splatoon Hacking Discord server.
 
+> If you want to keep track of ASH Team's progress on new versions, [click here](https://github.com/ASHTeam/ash-aio/projects) to view projects.
+
 ## FAQ
 
 ### Who made the hacks?
