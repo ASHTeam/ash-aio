@@ -2,6 +2,8 @@
 ### Status: [![Build Status](https://travis-ci.org/ASHTeam/ash-aio.svg?branch=master)](https://travis-ci.org/ASHTeam/ash-aio)
 ![certified good shit by hexexpeck](http://b.repl.ca/v1/certified_good%20shit%20by-hexexpeck-green.png)
 
+# Deprecated, use the new [ASH AIO 2](https://github.com/ASHTeam/ash-aio-2) now.
+
 A program that lets you use hacks from the Actual Splatoon Hacking Discord server.
 
 > If you want to keep track of ASH Team's progress on new versions, [click here](https://github.com/ASHTeam/ash-aio/projects) to view projects.
